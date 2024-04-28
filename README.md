@@ -1,1 +1,1 @@
-# Handy_scripts
+# Handly scripts repo
